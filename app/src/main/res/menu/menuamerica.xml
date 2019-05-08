@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/mn"
+        android:icon="@drawable/forwardseta_dp"
+        android:title="Menu"
+        app:showAsAction="ifRoom"
+        />
+
+
+    <item
+
+        android:id="@+id/mc"
+        android:icon="@drawable/ic_music_videodp"
+        android:title="Musica"
+        app:showAsAction="never"/>
+ <item
+
+        android:id="@+id/md"
+        android:icon="@drawable/ic_attach_moneydp"
+        android:title="Moeda"
+        app:showAsAction="never"/>
+ <item
+
+        android:id="@+id/fts"
+        android:icon="@drawable/ic_shopping_cartdp"
+        android:title="Frustas"
+        app:showAsAction="never"/>
+ <item
+
+        android:id="@+id/tp"
+        android:icon="@drawable/ic_music_videodp"
+        android:title="Tempo"
+        app:showAsAction="never"/>
+<item
+
+        android:id="@+id/tv"
+        android:icon="@drawable/ic_tv_blackdp"
+        android:title="Tv"
+        app:showAsAction="never"/>
+<item
+
+        android:id="@+id/ct"
+        android:icon="@drawable/ic_business_center_blackdp"
+        android:title="Cartão"
+        app:showAsAction="never"/>
+<item
+
+        android:id="@+id/ps"
+        android:icon="@drawable/parent-icon"
+        android:title="Pais"
+        app:showAsAction="never"/>
+
+
+</menu>
